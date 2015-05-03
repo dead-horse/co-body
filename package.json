@@ -13,8 +13,8 @@
     "urlencoded"
   ],
   "dependencies": {
-    "qs": "~0.6.6",
-    "raw-body": "~1.1.1"
+    "qs": "~2.4.1",
+    "raw-body": "~1.3.4"
   },
   "devDependencies": {
     "istanbul-harmony": "~0.3.12",
